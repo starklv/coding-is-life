@@ -7,6 +7,6 @@
  * 4.我还上传了一些网页爬虫相关的基础知识文件,包括requests、lxml+xpath、selenium....有需要的朋友可以看一下
  * 5.上传了python版本和jupyter notebook版本,python源文件更小,更方便打开,notebook版本更适合当教程,但相应的文件更大,加载时间很慢
  
-## weiyi_spider主要爬取的是微医网中上海三甲医院的各个科室
+## [weiyi_spider](weiyi_spider.py)主要爬取的是微医网中上海三甲医院的各个科室
 
-## lyrics_spider主要爬取的是网易云上许嵩歌曲的歌词
+## [lyrics_spider](lyrics_spider)主要爬取的是网易云上许嵩歌曲的歌词
